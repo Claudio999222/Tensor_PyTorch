@@ -14,8 +14,8 @@ This repository provides an in-depth exploration of tensors in PyTorch, a powerf
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/pytorch-tensors.git
-    cd pytorch-tensors
+    git clone https://github.com/yourusername/Tensor_PyTorch](https://github.com/Claudio999222/Tensor_PyTorch
+    cd Tensor_PyTorch
     ```
 
 2. **Install the required dependencies**:
