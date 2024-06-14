@@ -27,11 +27,3 @@ This repository provides an in-depth exploration of tensors in PyTorch, a powerf
     ```bash
     jupyter notebook
     ```
-
-## Contributing
-
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) to get started.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
